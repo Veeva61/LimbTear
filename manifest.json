@@ -2,6 +2,8 @@
   "name": "LimbTear",
   "version_number": "1.0.0",
   "website_url": "",
-  "description": "Grab an NPC body part and pull hard enough to rip it off",
-  "dependencies": ["LavaGang-MelonLoader-0.7.3"]
+  "description": "Grab an NPC body part and pull hard to rip it off, or rip it in half with two hands. Pairs great with GiantPlayer.",
+  "dependencies": [
+    "LavaGang-MelonLoader-0.7.3"
+  ]
 }

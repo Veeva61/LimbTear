@@ -2,6 +2,8 @@
 
 Rip NPCs apart with your bare hands in **BRUTALISTICK VR**.
 
+> Works great together with **GiantPlayer**: as a x2 giant with x10 strength you tear enemies apart with ease.
+
 ## Features
 - **Tear off body parts:** grab an arm, leg, head or torso piece and pull. When the real physics force on its joint stays above the threshold, it rips off (whatever hangs from it comes along).
 - **Keep tearing:** a torn-off leg can be ripped in half again, the pelvis can be torn from the upper body, and so on.
@@ -29,6 +31,8 @@ Rip NPCs apart with your bare hands in **BRUTALISTICK VR**.
 # LimbTear (RU)
 
 Рви NPC голыми руками.
+
+> Отлично сочетается с **GiantPlayer**: великаном с силой x10 рвать врагов намного проще.
 
 - Хватай руку, ногу, голову или часть туловища и тяни: при достаточной силе часть отрывается.
 - Оторванную ногу можно порвать ещё раз пополам, таз оторвать от верха и т. д.
