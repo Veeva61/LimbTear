@@ -7,7 +7,7 @@ using Il2CppHurricaneVR.Framework.Core.Player;
 using MelonLoader;
 using UnityEngine;
 
-[assembly: MelonInfo(typeof(LimbTear.Core), "LimbTear", "1.3.0", "geom2543")]
+[assembly: MelonInfo(typeof(LimbTear.Core), "LimbTear", "1.0.0", "geom2543")]
 [assembly: MelonGame("Kubunautilus", "BrutalistickVR")]
 
 namespace LimbTear

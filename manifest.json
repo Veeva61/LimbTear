@@ -1,6 +1,6 @@
 {
   "name": "LimbTear",
-  "version_number": "1.3.0",
+  "version_number": "1.0.0",
   "website_url": "",
   "description": "Grab an NPC body part and pull hard enough to rip it off",
   "dependencies": ["LavaGang-MelonLoader-0.7.3"]
